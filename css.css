@@ -1,0 +1,493 @@
+    .news{
+    border: none ;
+    width: 320px;
+    height: 736px;
+    margin-top: 50px;
+    margin-left: 15px;
+    background-color:rgb(10, 9, 9);
+    position: sticky;
+    
+}
+/***********/
+#v{
+    font-family: Bradley Hand, cursive;
+    margin-top: 30px;
+    color: white;
+    font-size: 40px;
+    margin-left: 50px;
+    
+    
+}
+/*********/
+#cur{
+    height: 100px;
+    width: 100px;
+    margin-left: 90px;
+    margin-top:-30px;
+    
+}
+
+/*************/
+
+#ar1{
+    font-family: Bradley Hand, cursive;
+    font-size: 20px;
+    margin-top: -20px;
+    color: white;
+ 
+}
+/************************/
+#ar2{
+    font-family: Bradley Hand, cursive;
+    font-size: 20px;
+    color: white;
+}
+/****/
+#ar3{
+    font-family: Bradley Hand, cursive;
+    font-size: 20px;
+    color: white;
+}
+
+/**********************************/
+#gif{
+    height: 180px;
+    width:300px;
+    border-radius: 5px;
+}
+/****/
+#gif2{
+    height: 180px;
+    width:300px;
+    border-radius: 5px; 
+}
+/************/
+#gif3{
+    height: 180px;
+    width: 300px;
+    border-radius: 5px;
+}
+.link{
+    border: none;       
+    width: 330px;
+    height: 736px;
+   margin-top: -740px;
+   margin-left: 1193px;
+   background-color: rgb(10, 9, 9);
+   
+
+}
+
+body{
+    background-color: #080808 ;
+    margin-left:50px;   
+}
+
+.menu{
+    margin-left: 450px;
+    margin-top: -850px;
+}
+
+
+#logo{
+    height:150px;
+    width: 250px;
+    margin-left: 150px;
+    margin-top: 70px;
+    /*margin-top: -750px;*/
+}
+
+/***/
+#t{
+    font-family: Bradley Hand, cursive;
+    margin-top: -3px;
+    color: white;
+    font-size: 40px;
+    text-align: center;
+}
+
+/**/#giff{
+    height: 180px;
+    width:300px;
+    border-radius: 5px;
+    margin-left: 10px;
+}
+
+a{
+    color:  #080808;
+}
+
+
+#gif22{
+    height: 180px;
+    width:300px;
+    border-radius: 5px; 
+    margin-left: 10px;
+}
+
+/***/
+#curr{
+    height: 100px;
+    width: 100px;
+    margin-left: 175px;
+    margin-top:-40px;
+    
+}
+
+/**/
+#ar11{
+    font-family: Bradley Hand, cursive;
+    font-size: 20px;
+    margin-top: -8px;
+    color: white;
+ 
+}
+
+#h{
+    height: 150px;
+    margin-left: 450px;
+    margin-top: 2px;
+    width: 150px;
+}
+
+#info{
+    font-family: Bradley Hand, cursive;
+    font-size:25px;
+    color: white;   
+    margin-top: -180px;
+    margin-left: 540px;
+    animation-name: light;
+    animation-duration: 6s;
+    animation-iteration-count: infinite;
+   
+   
+}
+/**/
+@keyframes light {
+    from{
+        opacity: 0;
+        color: aliceblue;
+    }
+    to{
+        opacity: 1;
+       
+    }}
+
+#n{
+    font-family: Bradley Hand, cursive;
+    font-size:25px;
+    color: white; 
+    margin-top: 30px;
+    margin-left: 550px;
+    animation-name: light;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+  }
+    
+#b{
+   height: 120px;
+    margin-top: -170px;
+    margin-left: 460px;
+
+}
+/**/
+#crystal {
+    height: 100px;
+    margin-top: -150px;
+    margin-left: 1100px;
+    position: absolute;
+ 
+}
+.reasons{
+    margin-left: -50px;
+ 
+}
+
+/**/
+@keyframes light {
+    from{
+        opacity: 2;
+        color: aliceblue;
+    }
+    to{
+        opacity: 0;
+       
+    }}
+
+/*  */
+
+    .logo-container {
+        position: relative;
+        display: inline-block;
+        margin-top: -820px;
+      }
+      
+      a{
+        color: #080808;
+         padding-left: 50px;
+         font-family: Bradley Hand, cursive;
+          font-size:20px;
+ 
+        
+      }
+      .menuu {
+        display: block;
+        position:relative;
+        top: 100%;
+        left: 0;
+        margin-left: -50px;
+        padding: 10px;
+        padding-top: 50px;
+       
+       
+        
+      }
+      
+      .logo-container:hover .menuu{
+        display: block;
+        margin-top: -200px;
+        margin-left: 30px;
+        height: 100px;
+        width: 500px;
+        background-color: rgba(255, 255, 255, 0.5);
+        transition: background-color 0.3s ease;
+        border-radius: 5px;
+        
+      }
+      
+     #tiny{
+        height: 50px;
+        margin-top: 20px;
+        margin-left: 2px;
+     }
+     /*  */
+
+     #load{
+       margin-top: -150px;
+       height: 100px;
+     }
+
+     /***********************/
+     .down{
+        border: solid;
+        margin-top: 180px;
+        height: 900px;
+        width: 850px;
+        background-color: #080808;
+        margin-left: 330px;
+     }
+.down:hover{
+    background-color: rgb(103, 102, 100);
+    opacity: 0.2 ;
+    transform: 0.6s;
+}
+
+     #true{
+        margin-top:150px;
+        margin-left: 1250px;
+        font-family: Bradley Hand, cursive;
+        font-size:20px;
+        color: white; 
+     }
+
+
+     #wt{
+        margin-left: 1250px;
+        height: 180px;
+        width:300px;
+        border-radius: 5px;
+     }
+
+     #pop{
+        
+        margin-left: 1270px;
+        font-family: Bradley Hand, cursive;
+        font-size:20px;
+        color: white; 
+     }
+
+     #pp{
+        margin-left: 1250px;
+        height: 180px;
+        width:300px;
+        border-radius: 5px;
+     }
+
+
+     #games{
+        
+        margin-left: 70px;
+        margin-top: -600px;
+        font-family: Bradley Hand, cursive;
+        font-size:20px;
+        color: white; 
+     }
+
+     #gif18{
+        height: 180px;
+        width:300px;
+        border-radius: 5px;
+        margin-left: 70px;
+     }
+     
+
+     #mtv{
+        margin-left: 70px;
+        margin-top: 10px;
+        font-family: Bradley Hand, cursive;
+        font-size:20px;
+        color: white; 
+     }
+
+     #mv{
+            height: 180px;
+            width:300px;
+            border-radius: 5px;
+            margin-left: 70px;
+         }
+     /**********/
+     #n1{
+        font-family: Bradley Hand, cursive;
+        font-size:30px;
+        color: rgb(71, 2, 2);
+        margin-left: 50px;
+        margin-top: 15px;                                               
+     }
+
+     #ed{
+        font-family: Bradley Hand, cursive;
+        font-size:20px;
+        color: white; 
+        margin-left: 20px;
+        margin-top: 10px;
+     }
+
+     #edw{
+        height: 200px;
+        width: 300px;
+       border-radius: 10px;
+       margin-left: 530px;
+       margin-top: -80px;
+     }
+/*  */
+#edw:hover{ 
+    background-color: navajowhite;
+    opacity: 0.2 ;
+    transform: 0.6s;
+ }
+     #info1{
+        font-family: Bradley Hand, cursive;
+        font-size:15px;
+        color: white; 
+        margin-top: -120px;
+        margin-left: 50px;
+       /*letter-spacing: 0.2em;*/
+       line-height: 25px;
+
+     }
+     /*  */
+     #space{
+     font-family: Bradley Hand, cursive;
+     font-size:20px;
+     color: white; 
+     margin-left: 20px;
+     margin-top: 60px;}
+
+     #jam{
+        height: 200px;
+        width: 300px;
+       border-radius: 10px;
+       margin-left: 530px;
+       margin-top: -210px;
+     }
+
+     #info2{
+        font-family: Bradley Hand, cursive;
+        font-size:15px;
+        color: white; 
+        margin-top: 20px;
+        margin-left: 20px;
+       /*letter-spacing: 0.2em;*/
+       line-height: 25px;
+
+     }
+     /*  */
+     #eleven{
+        font-family: Bradley Hand, cursive;
+        font-size:20px;
+        color: white; 
+        margin-left: 20px;
+        margin-top: 50px;}
+     
+/*  */
+#fu{
+
+    font-family: Bradley Hand, cursive;
+    font-size:15px;
+    color: white; 
+    margin-left: 20px;
+    margin-top: -120px;
+    line-height: 25px;
+}
+    /*  */
+        #jh{
+            height: 200px;
+            width: 300px;
+           border-radius: 10px;
+           margin-left: 530px;
+           margin-top: -60px;
+        }
+
+
+
+
+        #over{
+            color: white;
+            margin-top: 80px;
+            position:absolute;
+            margin-left: 350px;
+        
+            font-family: Bradley Hand, cursive;
+            font-size:20px;
+        }
+        
+        .footer{
+            margin-top: 20  0px;
+            width: 1505px;
+            height: 200px;
+            margin-left: -300px;
+            
+            background-color: rgb(10, 9, 9);
+        }
+        
+        
+        #over1{
+            color: white;
+            margin-top: 80px;
+            position:absolute;
+            margin-left: 550px;
+        
+            font-family: Bradley Hand, cursive;
+            font-size:20px;
+        }
+        
+        #over2{
+            color: white;
+            margin-top: 80px;
+            position:absolute;
+            margin-left: 750px;
+        
+            font-family: Bradley Hand, cursive;
+            font-size:20px;
+        }
+        
+        
+        #over3{
+            color: white;
+            margin-top: 80px;
+            position:absolute;
+            margin-left: 1000px;
+        
+            font-family: Bradley Hand, cursive;
+            font-size:20px;
+        }

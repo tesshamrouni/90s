@@ -1,0 +1,315 @@
+
+<head>
+  <title> over the top</title>
+  <link rel="stylesheet" href="css1.css">
+  <script src="java.js"></script>
+  <link rel="shortcut icon" type="image/x-icon" href="80s_Action_Figure_Logos-removebg-preview (1).png" />
+  <div class="menu">
+    <div class="logo-container">
+      <img id="logo" src="80s_Action_Figure_Logos-removebg-preview (1).png" alt="Logo" class="logo">
+  
+        <div class="menuu">
+         <a href="music.html">Music</a> 
+          <a href="menu.html">Film</a>
+          <a href="over.html">Food</a>
+          <a href="temple.html">Fashion</a>
+          <a href="temple.html">Gaming</a>
+          <a href="quiz.html">Quizes
+          </a>
+          <a href="about.html">About</a>
+      
+         
+        </div>
+      
+      </div>
+  </div>  
+      <!--  -->
+      <script>
+        // 
+       // Add an event listener to the logo container
+       document.querySelector('.logo-container').addEventListener('mouseover', function() {
+          // Show the menu when the container is hovered over
+          document.querySelector('.menuu').style.display = 'block';
+        });
+        
+        document.querySelector('.logo-container').addEventListener('mouseout', function() {
+          // Hide the menu when the cursor leaves the container
+          document.querySelector('.menuu').style.display = 'none';
+        });
+        
+      </script>
+  
+</head>
+<!--  -->
+<body>
+  <!--  -->
+  <div class="slideshow-container"> 
+    <div class="slide">
+        <img src="gettyimages-80946160-1024x1024.jpg">
+      <!-- Slide content goes here -->
+    </div>
+    <div class="slide">
+      <!-- Slide content goes here -->
+      <img src="gettyimages-1385223699-612x612.jpg">
+    </div>
+    <!-- Add more slide divs as needed -->
+    <div class="slide">
+        <!-- Slide content goes here -->
+        <img src="gettyimages-539727368-612x612.jpg">
+      </div>
+      <div class="slide">
+        <!-- Slide content goes here -->
+        <img src="gettyimages-76003519-612x612.jpg">
+      </div>
+      <div class="slide">
+        <!-- Slide content goes here -->
+        <img src="gettyimages-75398784-612x612.jpg">
+       
+      </div>
+  </div>
+<div class="dot-container">
+  <!-- Dots will be dynamically generated here -->
+</div>
+</div>
+<style>
+  .slideshow-container {
+position: relative;
+width: 100%;
+height: 300px; /* Adjust the height as needed */
+overflow: hidden;
+margin-top: 50px;
+margin-left: 450px;
+}
+
+.slide {
+position: absolute;
+width: 900%;
+height: 500%;
+opacity: 0;
+transition: opacity 1s ease;
+margin-top: 20px;
+}
+
+.show {
+opacity: 1;
+}
+
+.dot-container {
+text-align: center;
+margin-top: 20px;
+margin-left: -90px;
+}
+
+.dot {
+display: inline-block;
+width: 10px;
+height: 10px;
+border-radius: 50%;
+background-color: #bbb;
+margin: 0 5px;
+cursor: pointer;
+}
+
+.active-dot {
+background-color: #717171;
+}
+
+/* Add more slide styles as needed */
+
+.auto-style1 {
+	margin-top: 18px;
+}
+
+.auto-style2 {
+	border: medium solid #080808;
+	width: 350px;
+	height: 736px;
+	margin-top: 0px;
+	margin-left: 1300px;
+	background-color: rgb(10, 9, 9);
+	position: relative;
+}
+
+</style>  
+
+<script>
+  const slides = document.querySelectorAll('.slide');
+const dotContainer = document.querySelector('.dot-container');
+let currentSlide = 0;
+
+// Function to show the current slide
+function showSlide() {
+slides.forEach((slide) => {
+  slide.classList.remove('show');
+});
+
+slides[currentSlide].classList.add('show');
+
+// Update the active dot
+const dots = document.querySelectorAll('.dot');
+dots.forEach((dot) => {
+  dot.classList.remove('active-dot');
+});
+dots[currentSlide].classList.add('active-dot');
+}
+
+// Function to go to the next slide
+function nextSlide() {
+currentSlide++;
+if (currentSlide === slides.length) {
+  currentSlide = 0;
+}
+showSlide();
+}
+
+// Automatically go to the next slide every 3 seconds
+setInterval(nextSlide, 3000);
+
+// Generate navigation dots
+slides.forEach((_, index) => {
+const dot = document.createElement('span');
+dot.classList.add('dot');
+dot.addEventListener('click', () => {
+  currentSlide = index;
+  showSlide();
+});
+dotContainer.appendChild(dot);
+});
+
+// Show the initial slide
+showSlide();
+
+
+</script>
+<!--  -->
+  <div class="liink"> 
+    <h1 id="t"> Quizes </h1>
+    <img  id="curr" src="output-onlinegiftools (1).gif">
+   <a href="scream.html"><p id="ar11"> Are You Really A Sream Fan ? Check Out This Quiz !</p>
+    
+    <img  id='giff' src="OBh0.gif"></a>
+    <a href="ten.html"><p id=ar2 > You Can Only Save one '90s Movie Per Year , So Choose Wisley ... </p>
+<img  id="gif22"src="Youd-fight-course-only-because-you-wanted-make-up.gif"></a>
+  <a href="z.html">  <p id="ar3">If You Haven't Seen At Least 12/24 Of These Straight-To-Vhs/DVD Movies Your Not A Zillenial </p>
+    <img id="gif3" src="giphy (3).gif"></a>
+</div>
+<!--  -->
+<div class="liink1"> 
+  <h1 id="t"> Quizes </h1>
+  <img  id="curr" src="output-onlinegiftools (1).gif">
+ <a href="scream.html"><p id="ar111"> Are You Really A Sream Fan ? Check Out This Quiz !</p>
+  
+  <img  id='giff' src="OBh0.gif"></a>
+  <a href="ten.html"><p id=ar222 > You Can Only Save one '90s Movie Per Year , So Choose Wisley ... </p>
+<img  id="gif22"src="Youd-fight-course-only-because-you-wanted-make-up.gif"></a>
+<a href="z.html">  <p id="ar33">If You Haven't Seen At Least 12/24 Of These Straight-To-Vhs/DVD Movies Your Not A Zillenial </p>
+  <img id="gif3" src="giphy (3).gif"></a>
+
+</div>
+
+<!--  -->
+<div class="BIG"> 
+  <!--  -->
+  <h3 class="classy"> 90s FILMS ARE ...</h3>
+
+  <div class="mini"> 
+    <p id="mi">  <img  id="gem" src="tumblr-n6rulhHjvd1rz31j5o2-r1--unscreen.gif">timeless gems that continue to enchant audiences. <br>This era marked a cinematic renaissance, with <br>groundbreaking innovations in storytelling and technology, delivering iconic classics that remain unforgettable.</p>
+  </div>
+  <div class="mini1">
+    <p id="mi1">  <img  id="gem" src="tumblr-n6rulhHjvd1rz31j5o2-r1--unscreen.gif">hold a timeless charm, often considered the golden age of classic cinema. Their iconic status continues to captivate audiences, making them the epitome of cinematic greatness." </p> 
+
+  </div>
+  <div class="mini2">
+    <p id="mi2">  <img  id="gem" src="tumblr-n6rulhHjvd1rz31j5o2-r1--unscreen.gif"> a testament to the exceptional talents<br> of actors like Keanu Reeves, Tom Hanks, and Julia<br> Roberts, who played pivotal roles in shaping the <br> decade's cinematic landscape. Their remarkable performances contributed to the enduring legacy <br> of 90s cinema."</p>
+  </div>
+  <div class="mini3">
+    <p id="mi3">  <img  id="gem" src="tumblr-n6rulhHjvd1rz31j5o2-r1--unscreen.gif">a mosaic of creative genres and visionary<br> direction, defining an era of cinematic<br> innovation. Directors like Tarantino and <br>Spielberg reshaped storytelling, leaving<br> a lasting cultural imprint. Their enduring<br> appeal continues to captivate audiences."</p>
+  </div>
+</div>
+<div class="poster">
+  <h3 class="some"> Some Movie Recommendations</h3> 
+  <img  id="cluless" src="[1999] - Matrix.jpg">
+  <img src="11 Action Figures From '90s Movies That Never Deserved To Exist.jpg" id="park">
+  <img src="Helena bonham carter.jpg" id="Helena">
+  <img src="The Juror 1996 One Sheet Poster Rolled.jpg" id="matrix">
+ 
+</div>
+                 <div class="big1">
+<div class="box2">
+  <p class="action"> WHY ACTION MOVIES WERE BETTER IN THE 90s ?</p>
+  <img src="6390d80b-2760-4843-9921-0f9a8a38e435.gif" class="mx">
+
+  <p id="I"> The 90s were a glorious time for action movie fans. The decade gave us a perfect<br> storm of machismo, mayhem, and melodrama that simply hasn’t been matched since. <br>Where else (besides the 80s) could you see A-listers like Arnold Schwarzenegger and Sylvester Stallone cracking skulls while spewing enough corny one-liners to fill a decade’s worth of blockbusters? Or watch as stars like Bruce Willis and Mel Gibson dispatched<br> villains through sheer guts and grit without today’s dependence on CGI razzle-dazzle?.</p>
+ <p id="II" class="auto-style1" style="left: 2px; top: -39px; width: 671px; height: 278px"> <br>The 90s were the last era when R-rated action films could still go head-to-head at the box<br> office with their PG-13 counterparts. Movies like Terminator 2, Face/Off, and True Lies<br> pushed the boundaries of violence and language further than most studios would allow today.<br>Yet at the same time, the 90s also marked the peak of the classic PG-13 action movie – films<br> like the first Mission Impossible, The Fugitive, and Independence Day that delivered all the<br> adrenaline audiences craved while largely staying family-friendly.In many ways, 90s action films<br> were the perfect encapsulation of the Gen X mentality – cynical, street-wise, and always ready<br> for a fight. And their stars represented the kind of rough-and-tumble masculinity associated<br> with the decade</p> 
+</div>
+
+<div class="box3">  
+  <h3 class="disney"> DISNEY THROUGH THE YEARS - THE 1990S: ANIMATED FEATURES</h3>
+  <img src="télécharger.gif" class="mx1">
+  <p id="Id"> From talking dragons to dancing candles, the 1990s are revered as the decade with<br> some of the best Disney movies ever made. Nothing quite compares to the charm and <br>ambiance of Walt Disney Productions back in the day. A golden era for Disney films and entertainment, this pilot period spun a spectacular web of classic movies that audiences<br> have been stuck in ever since, changing the course of cinema with its many spin-offs, <br>sequels, and innovations. From talking dragons and dancing candles to magic genies and<br> scheming witches, the '90s are revered as some of the best Disney movies ever made.</p>
+  <p id="II1"> Audiences across the world fell in love with some of Disney's most recognizable and <br>beloved characters, with familiar faces like Buzz Lightyear, Mushu, Lumiere, and conspiring <br>twins Annie and Hallie making their debuts during the nostalgic decade. Fondly known as the<br> Disney Renaissance , the '90s was a time of a popular resurgence for the animation studio after<br> a couple of less beloved decades. Here are the best films released.</p>
+</div>
+<div class="animation">
+ <img src="camera.gif" class="camera">  
+ <img src="camera.gif" class="camera1">  
+
+ <p class="made"> What Made The 90s Cinema So Special ? :</p>
+ <p id="i"> The 1990s were a significant and memorable decade for film for several reasons, making the films of that era special in their own right. Here are some factors that contributed to the uniqueness of 1990s films:</p>
+ <p id="tiny">1.Diverse Genres:</p>
+ <p id="ii" style="left: 1px; top: -60px">  The 1990s saw a wide range of film genres being explored, from action-packed blockbusters to thought<br>-provoking dramas, romantic comedies, and animated classics. This diversitys allowed for a broad appeal<br> to various audiences.</p>
+ <p id="tiny1">2.Emerging Talent:</p> 
+ <p id="ii" style="left: -2px; top: -50px">  Many successful and influential filmmakers and actors emerged during the 1990s.<br> Directors like Quentin Tarantino, the Coen Brothers, and Steven Spielberg continued to make their<br> mark on the industry. Actors like Tom Hanks, Julia Roberts, and Brad Pitt gained immense popularity<br> during this era.</p>
+ <p id="tiny3">3.Soundtracks :</p>
+  <p id="ii" style="left: 4px; top: -50px">  The 1990s produced some memorable film soundtracks. Films like "Pulp Fiction" (1994)<br> and "Trainspotting" (1996) featured soundtracks that became iconic in their own right.</p> 
+</div>
+
+
+
+
+<div class="side2" >
+  <p id="v"> News</p>
+   <img  id="curep2" src="output-onlinegiftools (1).gif">
+  <a href="nostalgia.html"><p id="ar1">16 Things That Made The 90s So Special.<br> Nostalgia Lane</p></a>
+  <img  id="gif" src="giphy.gif">
+  <a href="food"><p id="ar2"> '90s Food Commercials We Still Think <br> About To This Day</p></a>
+  <img id="gif2" src="giphy (1).gif"> 
+ 
+</div>
+
+
+<div class="side1" >
+  <p id="v"> News</p>
+   <img  id="curep2" src="output-onlinegiftools (1).gif">
+  <a href="nostalgia.html"><p id="ar1">16 Things That Made The 90s So Special. Nostalgia Lane</p></a>
+  <img  id="gif" src="giphy.gif">
+  <a href="food"><p id="ar2"> '90s Food Commercials We Still Think  About To This Day</p></a>
+  <img id="gif2" src="giphy (1).gif"> 
+ 
+</div>
+
+
+
+
+<div class="photos">
+  <h2 id="main"> Main Genre</h2>
+
+<img src="Twin Peaks_ TV Series Stills - Post Your Photos Here! - Page 20 - World of Blue - Archived Forum 2007-2022.jpg " class="ka">
+<a href="fanatsy.html" class="fant"> Fanstasy</a>
+<img src="tim butun.jpg" class="ka2">
+
+<a href="action.html" class="ac"> Action</a>
+</div>
+<img src="Jackie Brown (1997).jpg" class="h">
+<a href="horror.html" class="ho"> Horror</a>
+
+
+</div>
+
+
+
+
+<div class="footer"> 
+  <a href="over.html" id="over"> Home Page </a> 
+  <a href="over.html" id="over1"> About Us </a> 
+  <a href="over.html" id="over2">Contact </a> 
+  <a href="over.html" id="over3">News </a> 

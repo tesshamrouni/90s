@@ -1,0 +1,69 @@
+<div class="logo-container">
+  <img src="gettyimages-1370651860-612x612.jpg" alt="Logo" class="logo">
+  <div class="menu">
+     <a href="over.html">Home</a>
+    <a href="menu.html">About</a>
+    <a href="over.html">Services</a>
+    <a href="temple.html">Contact</a>
+  </ul>
+</div>
+<style>
+  .logo-container {
+  position: relative;
+  display: inline-block;
+}
+
+a{
+  color: black;
+   padding-left: 50px;
+  
+  
+}
+.menu {
+  display: block;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  margin-left: -50px;
+  padding: 10px;
+  padding-top: 150px;
+ 
+  
+}
+
+.logo-container:hover .menu {
+  display: block;
+  margin-top: -100px;
+  margin-left: 70px;
+  height: 100px;
+  width: 500px;
+  background-color: rgba(204, 71, 71, 0.878);
+  transition: background-color 0.3s ease;
+  
+}
+
+/* Styling for the rest of the logo */
+.logo {
+  /* Add your logo styles here */
+  height: 100px;
+  margin-left: 250px;
+}
+body{
+  background-color: black;
+}
+</style>
+
+
+ <script>
+  // Add an event listener to the logo container
+document.querySelector('.logo-container').addEventListener('mouseover', function() {
+  // Show the menu when the container is hovered over
+  document.querySelector('.menu').style.display = 'block';
+});
+
+document.querySelector('.logo-container').addEventListener('mouseout', function() {
+  // Hide the menu when the cursor leaves the container
+  document.querySelector('.menu').style.display = 'none';
+});
+
+ </script>

@@ -1,0 +1,16 @@
+#logoContainer {
+    position: relative;
+  }
+  
+  #menuPage {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    /* Add more styles as needed */
+  }
+  
+  .hidden {
+    display: none;
+  }
+  

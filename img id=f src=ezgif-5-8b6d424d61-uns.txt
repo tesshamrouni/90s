@@ -1,0 +1,9 @@
+<img id="f" src="ezgif-5-8b6d424d61-unscreen (1).gif">
+ <p id="n" > 🙶The time machine is on! just a simple click and <br>you'll get all  about  the '90s ; the  Film industry <br> Commercials, Fashion , the Music industry and More ! 🙸 </p>
+ </p>
+
+
+
+  <div class="reasons">
+  <img  id="b" src="tumblr-n6rulhHjvd1rz31j5o2-r1--unscreen.gif">
+  <p id="info"> 🙶Feeling nostalgic? wanna remember the good <br>memories from the  past? where things were<br> utterly awesome free and exceptional  then <br> over the top is the right destiny for you dear visitor! 🙸</p>

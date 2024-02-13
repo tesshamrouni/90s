@@ -1,0 +1,784 @@
+
+body{
+    background-color: #080808 ;
+  
+
+}
+
+
+#logo{
+    height:150px;
+    width: 250px;
+    margin-left: 590px;
+    margin-top: 50px;
+}
+
+.boxone{
+    border: solid;
+    height: 340px;
+    width: 600px;
+    margin-left: 450px;
+    margin-top: 150px;
+    border-radius: 20px;
+    background-color: #292536;
+}
+
+
+
+.boxtwo{
+    border: solid;
+    color: aqua;
+    height: 400px;
+    width: 600px;
+    margin-left: 40px;
+    margin-top: 50px;
+    border-radius: 20px;
+    background-color: #292536;
+}
+.intro{
+    color: white;
+    font-family: GroovyGuru, cursive;
+    font-size: 15px;
+    line-height: 25px;
+    padding-left: 40px;
+    padding-right: 40px;
+    
+}
+
+
+.para{
+    color: white;
+    font-family: GroovyGuru, cursive;
+    font-size: 15px;
+    line-height: 25px;
+    padding-top: 40px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+
+img{
+    height: 200px;
+    margin-top: -30px;
+    margin-left: 150px;
+}
+
+#not{
+    text-align: center;
+    color: white;
+    font-family: GroovyGuru, cursive;
+    font-size: 15px;
+    margin-top: 20px    ;
+}
+
+.boxthree{
+   
+    
+    height: 750px;
+    width: 400px;
+    margin-left: -10px;
+    margin-top: -650px;
+    
+    background-color:rgb(10, 9, 9);
+}
+
+
+
+.why{
+    font-family: Bradley Hand, cursive;
+    font-size:19px;
+    color: white; 
+    margin-left: -10px;
+    margin-top: 150px;
+   
+}
+
+
+#cur{
+    height: 100px;
+    width: 100px;
+    margin-left: 200px;
+    margin: top -300px;
+
+    
+}
+
+#one{
+    font-family: Bradley Hand, cursive;
+    font-size:15px;
+    color: white; 
+    line-height: 25px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+#monie{
+    padding-top: 50px;
+    margin-left: 20px;
+    position:sticky;
+    height: 250px;
+    width: 300px;
+    border-radius: 20px;
+}
+
+
+#two{
+    font-family: Bradley Hand, cursive;
+    font-size:15px;
+    color: white; 
+    line-height: 25px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.boxfour{
+    height: 750px;
+    width: 400px;
+    margin-left: 1110px;
+    margin-top: -780px;
+    background-color: rgb(10, 9, 9);
+}
+#msg{
+    font-family: Bradley Hand, cursive;
+    font-size:25px;
+    color: white; 
+    line-height: 25px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+
+#ryh{
+    font-family: Bradley Hand, cursive;
+    font-size:15px;
+    color: white; 
+    line-height: 25px;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+#fau{
+    font-family: Bradley Hand, cursive;
+    font-size:15px;
+    color: white; 
+    line-height: 25px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+
+#car{
+    font-family: Bradley Hand, cursive;
+    font-size:25px;
+    color: white; 
+    line-height: 25px;
+    text-align: center;
+}
+
+
+
+.boxfive{
+     
+    height: 700px;
+    width: 690px;
+    margin-left: 400px;
+    margin-top: 10px;
+   
+ 
+    background-color:rgb(10, 9, 9);
+}
+
+
+#strong{
+    font-family: Bradley Hand, cursive;
+    font-size:15px;
+    color: white; 
+    line-height: 25px;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+
+#gro{
+    margin-top: 10px;
+}
+
+#vo{
+    font-family: Bradley Hand, cursive;
+    font-size:15px;
+    color: white; 
+    line-height: 25px;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+
+#bre{
+    font-family: Bradley Hand, cursive;
+    font-size:15px;
+    color: white; 
+    line-height: 25px;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+.boxsix{
+    height: 5000px;
+    width: 1450px;
+    margin-left:10px;
+    margin-top:50px;
+    border: solid;
+        position: static;
+    background-color:rgb(10, 9, 9);
+}
+
+
+.why{
+    font-family: Bradley Hand, cursive;
+    font-size:25px;
+    color: white; 
+    line-height: 25px;
+    position: relative;
+    margin-top: -200px;
+    text-align: center;
+
+}
+
+
+#yeah{
+    font-family: Bradley Hand, cursive;
+    font-size:25px;
+    color: white; 
+    line-height: 30px;
+    position: relative;
+    margin-top: -630px;
+    text-align: center;
+    padding-top: 650px;
+    width: 700px;
+    margin-left: 400px;
+}
+#dis{
+    
+    height: 50px;
+    margin-left: 380px;
+    margin-top: -670px;
+}
+
+#dis1{
+    height: 50px;
+    margin-left: 1100px;
+    margin-top: -60px;
+}
+
+#msg{
+    font-family: Bradley Hand, cursive;
+    font-size:25px;
+    color: white; 
+    line-height: 25px;
+    position: sticky;
+    margin-top: -100px;
+    margin-left: 40px;
+   
+}
+
+
+#i{
+    font-family: Bradley Hand, cursive;
+    font-size:15px;
+    color: white; 
+    line-height: 25px;
+    text-align: left;
+    width: 700px;
+    margin-left: 400px;
+}
+
+
+
+.T{
+    margin-top: 50px;
+}
+
+
+.O{
+    margin-top: 200px;
+}
+#ii{
+    font-family: Bradley Hand, cursive;
+    font-size:15px;
+    color: white; 
+    line-height: 25px;
+    text-align: left;
+    width: 700px;
+    margin-left: 400px;
+}
+
+
+
+#iii{
+    font-family: Bradley Hand, cursive;
+    font-size:15px;
+    color: white; 
+    line-height: 25px;
+    text-align: left;
+    width: 700px;
+    margin-left: 400px;
+}
+
+
+
+#iiii{
+    font-family: Bradley Hand, cursive;
+    font-size:15px;
+    color: white; 
+    line-height: 25px;
+    text-align: left;
+    width: 700px;
+    margin-left: 400px;
+}
+
+
+
+#wh{
+    font-family: Bradley Hand, cursive;
+    font-size:25px;
+    color: white; 
+    margin-top: -50px;
+    position: absolute;
+    text-align: center;
+    margin-left: 450px;
+}
+
+
+
+#iiiii{
+    font-family: Bradley Hand, cursive;
+    font-size:15px;
+    color: white; 
+    line-height: 25px;
+    text-align: left;
+    width: 700px;
+    margin-left: 400px;
+}
+
+
+
+#pht{
+    
+   border-radius: 10px;
+   margin-left: 50px;
+   margin-top: -600px;
+   height: 450px;
+}
+
+
+
+#pho{
+    
+    border-radius: 10px;
+    margin-left: 850px;
+    margin-top: -600px;
+    height: 450px;
+    position: absolute;
+ }
+ 
+#big{
+    border-radius: 10px;
+    margin-left: 1150px;
+    margin-top: -800px;
+    height: 450px;
+    position: absolute;
+}
+
+
+#biig{
+    border-radius: 10px;
+    margin-left: 1150px;
+    margin-top: -200px;
+    height: 450px;
+    position: absolute;
+}
+
+
+#ice{
+    border-radius: 10px;
+    margin-left: 50px;
+    margin-top: -800px;
+    height: 450px;
+    position: absolute;
+}
+
+#first{
+    border-radius: 10px;
+    margin-left: 50px;
+    margin-top: -200px;
+    height: 450px;
+    position: absolute;
+}
+
+
+#second{
+    border-radius: 10px;
+    margin-left: 50px;
+    margin-top: 400px;
+    height: 450px;
+    position: absolute;
+}
+
+
+#b3g{
+    border-radius: 10px;
+    margin-left: 1150px;
+    margin-top: 400px;
+    height: 450px;
+    position: absolute;
+
+}
+
+
+#trois{
+    border-radius: 10px;
+    margin-left: 50px;
+    margin-top: 1000px;
+    height: 450px;
+    position: absolute;
+}
+
+
+#b4g{
+    border-radius: 10px;
+    margin-left: 1150px;
+    margin-top: 1000px;
+    height: 450px;
+    position: absolute;
+}
+
+
+#quatre{
+    border-radius: 10px;
+    margin-left: 50px;
+    margin-top: 1000px;
+    height: 450px;
+    position: absolute;
+}
+
+#b5g{
+    border-radius: 10px;
+    margin-left: 1150px;
+    margin-top: 1000px;
+    height: 450px;
+    position: absolute;
+}
+
+    
+#cinq{
+    border-radius: 10px;
+    margin-left: 50px;
+    margin-top: 1600px;
+    height: 450px;
+    position: absolute;
+}
+#b6g{
+    border-radius: 10px;
+    margin-left: 1150px;
+    margin-top: 1000px;
+    height: 450px;
+    position: absolute;
+}
+
+
+#six{
+    border-radius: 10px;
+    margin-left: 50px;
+    margin-top: 2200px;
+    height: 450px;
+    position: absolute;
+}
+
+
+#b6g{
+    border-radius: 10px;
+    margin-left: 1150px;
+    margin-top: 1600px;
+    height: 450px;
+    position: absolute;
+}
+
+#sept{
+    border-radius: 10px;
+    margin-left: 50px;
+    margin-top: 2800px;
+    height: 450px;
+    position: absolute;
+}
+
+
+#b8g{
+    border-radius: 10px;
+    margin-left: 1150px;
+    margin-top: 2200px;
+    height: 450px;
+    position: absolute;
+}
+
+#huit{
+    border-radius: 10px;
+    margin-left: 50px;
+    margin-top: 3400px;
+    height: 450px;
+    position: absolute;
+}
+#b9g{
+    border-radius: 10px;
+    margin-left: 1150px;
+    margin-top: 2800px;
+    height: 450px;
+    position: absolute;
+}
+#neuf{
+    border-radius: 10px;
+    margin-left: 50px;
+    margin-top: 4000px;
+    height: 450px;
+    position: absolute;
+}
+
+
+#b10g{
+    border-radius: 10px;
+    margin-left: 1150px;
+    margin-top: 3350px;
+    height: 450px;
+    position: absolute;
+}
+
+#b11g{
+    border-radius: 10px;
+    margin-left: 1150px;
+    margin-top: 4000px;
+    height: 450px;
+    position: absolute;
+}
+
+#b12g{
+    border-radius: 10px;
+    margin-left: 1150px;
+    margin-top: 4600px;
+    height: 450px;
+    position: absolute;
+}
+
+
+
+
+
+
+#dix{
+    border-radius: 10px;
+    margin-left: 50px;
+    margin-top: 4600px;
+    height: 450px;
+    position: absolute;
+}
+.gro{
+    height: 100px;
+    margin-top:  -150px  ;
+    position: relative;
+    margin-left:350px
+}
+
+
+.gro1{
+    height: 100px;
+    margin-top: -150px;
+    position:absolute;
+    margin-left:620px
+}
+
+.pac{
+    margin-left: 600px;
+    margin-top: 20px;
+}
+
+.kn{
+    color: aqua;
+    margin-top: 80px;
+    font-family: Bradley Hand, cursive;
+    font-size:25px;
+    color: white; 
+    margin-left: 600px;
+}
+
+.pop{
+    margin-top:80px;
+    font-family: Bradley Hand, cursive;
+    font-size:25px;
+    color: white; 
+    margin-left: 500px;
+}
+.ali{
+    margin-left: 400px;
+    margin-top: 20px;
+}
+.wu{
+    margin-left: 550px;
+    margin-top: 20px;
+}
+.wuu{
+    margin-left: 390px;
+    margin-top: 20px;
+}
+#who{
+    font-family: Bradley Hand, cursive;
+    font-size:25px;
+    color: white; 
+    margin-left: 500px;
+    margin-top: 50px;
+}
+
+
+
+
+.g{
+    height: 100px;
+    margin-top:  -90px  ;
+    position: relative;
+    margin-left:400px
+}
+
+
+.g1{
+    height: 100px;
+    margin-top: -90px;
+    position:absolute;
+    margin-left:450px
+}
+
+#had{
+    font-family: Bradley Hand, cursive;
+    font-size:20px;
+    color: white; 
+    margin-left: 650px;
+}
+
+#tang{
+    font-family: Bradley Hand, cursive;
+    font-size:20px;
+    color: white; 
+    margin-left: 550px;
+    margin-top: 50px;
+}
+
+#lo{
+    font-family: Bradley Hand, cursive;
+    font-size:20px;
+    color: white; 
+    margin-left: 550px;
+}
+
+
+#over{
+    color: white;
+    margin-top: 80px;
+    position:absolute;
+    margin-left: 350px;
+
+    font-family: Bradley Hand, cursive;
+    font-size:20px;
+}
+
+.footer{
+    margin-top: 2000px;
+    width: 1505px;
+    height: 200px;
+    margin-left: -9px;
+    
+    background-color: rgb(10, 9, 9);
+}
+
+
+#over1{
+    color: white;
+    margin-top: 80px;
+    position:absolute;
+    margin-left: 550px;
+
+    font-family: Bradley Hand, cursive;
+    font-size:20px;
+}
+
+#over2{
+    color: white;
+    margin-top: 80px;
+    position:absolute;
+    margin-left: 750px;
+
+    font-family: Bradley Hand, cursive;
+    font-size:20px;
+}
+
+
+#over3{
+    color: white;
+    margin-top: 80px;
+    position:absolute;
+    margin-left: 1000px;
+
+    font-family: Bradley Hand, cursive;
+    font-size:20px;
+}
+
+
+.final{
+    margin-left: 80px;
+}
+
+.menu{
+   
+    margin-top:10px;
+}
+
+
+.logo-container {
+    position: relative;
+    display: inline-block;
+    margin-top: 20px;
+  }
+  
+  a{
+    color: #080808;
+     padding-left: 50px;
+     font-family: Bradley Hand, cursive;
+      font-size:20px;
+
+    
+  }
+  .menuu {
+    display: block;
+    position:absolute;
+    top: 100%;
+    left: 0;
+ 
+    padding: 10px;
+    padding-top: 50px;
+   
+   
+    
+  }
+  
+  .logo-container:hover .menuu{
+    display: block;
+    margin-top: -150px;
+    margin-left: 500px;
+    height: 100px;
+    width: 500px;
+    background-color: rgba(255, 255, 255, 0.5);
+    transition: background-color 0.3s ease;
+    border-radius: 5px;
+    
+  }
+
+  .arch{
+    font-family: Bradley Hand, cursive;
+      font-size:15px;
+  }

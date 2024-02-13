@@ -1,0 +1,203 @@
+body {
+    min-width: 960px; /* Set a minimum width for the body */
+    margin: 0 auto; /* Center the content horizontally */
+    background-color: #080808;
+    line-height: 1.6;
+    margin-left: 70px;
+}
+
+
+.menuu {
+    display: block;
+    position:static;
+    top: 100%;
+    left: 0;
+    margin-left: -550px;
+    padding: 10px;
+    padding-top: 50px;
+    margin-top:-100px;
+
+    .slideshow-container{
+        margin-top: 50px;
+        position: static;
+    }
+  
+   
+    
+  }
+  
+  .logo-container:hover .menuu{
+    display: block;
+    margin-left: 50px;
+    margin-left: 350px;
+    height: 100px;
+    width: 500px;
+    background-color: rgba(255, 255, 255, 0.5);
+    transition: background-color 0.3s ease;
+    border-radius: 5px;
+    margin-top: -150px;
+    position:relative;
+    
+  }
+
+  #logo{
+    height: 150px;
+    width: 250px;
+    margin-left: 470px;
+    margin-top: 10px;
+
+    /*margin-top: -750px;*/
+}
+
+a{
+  color: #080808;
+   padding-left: 50px;
+   margin-left: 10px;
+   font-family: Bradley Hand, cursive;
+    font-size:20px;}
+
+
+/***/
+#poster{
+  height: 450px;
+  margin-left: 750px;
+  margin-top: -500px;
+  animation-name: light;
+  animation-duration: 6s;
+  animation-iteration-count: infinite;
+ 
+ 
+}
+/**/
+@keyframes light {
+  from{
+      opacity: 0;
+      color: aliceblue;
+  }
+  to{
+      opacity: 1;
+     
+}}
+/***/
+#poster:hover{
+  background-color: rgb(102, 101, 100);
+}
+
+p{
+  font-family: Bradley Hand, cursive;
+  font-size:15px;
+  color: white; 
+  line-height: 30px;
+  padding-left: 50px;
+  text-align: left;
+  margin-top: -20px;
+}
+
+.box1{
+  height: 650px;
+  width:1200px;
+  margin-top: 80px;
+  border: solid;
+  box-shadow: 3px 3px rgb(102, 101, 100), -1em 0 .4em rgb(71, 2, 2);
+    
+}
+
+h3{
+  font-family: Bradley Hand, cursive;
+  font-size:20px;
+  color: white; 
+  text-align: left;
+  padding-left: 45px;
+  padding-top: 40px;
+
+}
+
+
+#gem{
+  height: 35px;
+  margin-top:35px;
+  margin-left: 20px;
+  position: absolute;
+}
+
+
+#gem1{
+  height: 35px;
+  margin-top:20px;
+  margin-left: 25px;
+  position: absolute;
+}
+
+
+#gem2{
+  height: 35px;
+  margin-top:70px;
+  margin-left: -270px;
+  position: absolute;
+}
+
+
+
+.footer{
+  margin-top:100px;
+  width: 1595px;
+  height: 200px;
+  margin-left: -150px;
+  
+  background-color: rgb(10, 9, 9);
+}
+
+
+#over{
+  color: white;
+  margin-top: 80px;
+  position:absolute;
+  margin-left: 350px;
+
+  font-family: Bradley Hand, cursive;
+  font-size:20px;
+}
+
+
+
+#over1{
+  color: white;
+  margin-top: 80px;
+  position:absolute;
+  margin-left: 550px;
+
+  font-family: Bradley Hand, cursive;
+  font-size:20px;
+}
+
+#over2{
+  color: white;
+  margin-top: 80px;
+  position:absolute;
+  margin-left: 750px;
+
+  font-family: Bradley Hand, cursive;
+  font-size:20px;
+}
+
+
+#over3{
+  color: white;
+  margin-top: 80px;
+  position:absolute;
+  margin-left: 1000px;
+
+  font-family: Bradley Hand, cursive;
+  font-size:20px;
+}
+
+
+.from{
+  font-family: Bradley Hand, cursive;
+  font-size:20px;
+  color: white;
+  margin-left: 550px;
+  margin-top: -210px;
+  position: absolute;
+  font-size: 25px;
+}

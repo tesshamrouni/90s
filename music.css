@@ -1,0 +1,478 @@
+        body{
+    background-color: #080808 
+}
+
+
+    #logo{
+        height:150px;
+        width: 250px;
+        margin-left: 590px;
+        margin-top: 50px;
+    }
+
+
+h1{
+    font-family: GroovyGuru, cursive;
+    margin-top: -50px;
+    color:wheat;
+    font-size: 25px;
+    text-align: center;
+  
+
+}
+
+#disque{
+    height: 50px;
+    margin-left: 460px;
+    margin-bottom:-65px;
+}
+
+p{
+    font-family: GroovyGuru, cursive;
+    margin-top: 10px;
+    color: wheat;
+   padding-top: -50px;
+    text-align: center;
+
+}
+
+.cube1{
+    border: none;
+    padding-top:-80px;
+    width: 550px;
+    margin-left: 450px;
+    background-color: #292536;
+    border-radius: 20px;
+    
+    
+}
+
+#disque2{
+    height: 50px;
+    margin-left: 40px;
+    margin-top: 10px;
+}
+
+
+
+
+
+#b1 {
+   
+   
+    background-color: none;
+    margin-left: 400px;
+    margin-top: 10px;
+    border-radius:20px;
+    width:300px;
+    height: 200px;
+    
+}
+/*  */
+  #p:hover{
+    background-color: navajowhite;
+    opacity: 0.2 ;
+    transform: 0.6s;
+}
+/*  */
+
+/*  */
+#b2{
+
+   margin-top: 30px;
+    width:300px;
+    height: 200px;
+    border-radius: 20px;
+    margin-left: 40px;
+}
+/*  */
+#b3{
+    margin-top: 50px;
+    margin-left:600px;
+    width:300px;
+    height: 200px;
+    border-radius: 20px;
+    
+}
+    
+
+/*  */
+/*  */
+#b4{
+    width:300px;
+    height: 200px;
+    border-radius: 20px;
+    margin-top:-560px;
+    
+    margin-left:400px;
+}
+/*a{
+  
+    margin-left: 300px;
+    margin-top: 130px;
+    position: absolute;
+    font-family: GroovyGuru, cursive;
+    color: white;
+    text-align: center;
+    font-size: 30px;*/
+    
+
+
+/*  */
+/*#rb{
+    margin-left:1020px;
+    margin-top: 170px;
+    position: absolute;
+    font-family: GroovyGuru, cursive;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    
+}
+
+#about{
+    margin-top: 150px;
+    width: 700px;
+}
+
+/**************************************************/
+.news{
+    border: none ;
+    width: 330px;
+    height: 736px;
+    margin-top: -1000px;
+    margin-left: 15px;
+    background-color:#080808 ;
+    position: sticky;
+    
+}
+/***********/
+#v{
+    font-family: Bradley Hand, cursive;
+    margin-top: 40px;
+    color: white;
+    font-size: 40px;
+    margin-left: -40px;
+    
+    
+}
+/*********/
+#cur{
+    height: 100px;
+    width: 100px;
+    margin-left: 120px;
+    margin-top:-60px;
+    
+}
+
+/*************/
+
+
+.link{
+    border: none;       
+    width: 330px;
+    height: 1000px;
+   margin-top: -760px;
+   margin-left: 1193px;
+   background-color: rgb(10, 9, 9);
+   
+
+}
+
+#t{
+    font-family: Bradley Hand, cursive;
+    margin-top: 10px;
+    color: white;
+    font-size: 40px;
+    text-align: center;
+}
+
+
+#f{
+    height: 180px;
+    width:300px;
+    border-radius: 5px; 
+    margin-left: 30px;
+}
+
+
+
+#gif22{
+    height: 180px;
+    width:300px;
+    border-radius: 5px; 
+    margin-left: 13px;
+}
+
+/***/
+#curr{
+    height: 100px;
+    width: 100px;
+    margin-left: 175px;
+    margin-top:-40px;
+    
+}
+
+/**/
+#p{
+    font-family: Bradley Hand, cursive;
+    font-size: 15px;
+   
+    color: white;
+    margin-left: -720px;
+    margin-top: -100px;
+ 
+}
+
+#pac{
+    height: 150px;
+    margin-top: 50px;
+    margin-left: 90px;
+}
+/*  */
+#lauren{
+    height: 170px;
+    margin-top: 10px;
+    margin-left: 90px;
+}
+#ar2{
+    font-family: Bradley Hand, cursive;
+    font-size: 15px;
+    color: white;
+}
+/**/
+#ar3{
+    font-family: Bradley Hand, cursive;
+    font-size: 15px;
+    color: white;
+}
+
+#mob{
+    height: 170px;
+    margin-top: 10px;
+    margin-left: 90px;
+}
+
+
+#one{
+    font-family: Bradley Hand, cursive;
+    font-size: 15px;
+    color: white;
+    margin-top: 35px;
+    margin-left: -250px;
+   
+    
+}
+
+/*  */
+
+
+#today{
+    font-family: Bradley Hand, cursive;
+    font-size: 15px;
+    color: white;
+    
+}
+
+.things{
+    border: solid;
+    margin-top: -250px;
+    height: 900px;
+    width: 800px;
+    background-color: #080808;
+    margin-left: 350px;
+}
+
+
+#spice{
+    height: 180px;
+    width: 300px;
+    border-radius: 5px;
+margin-left: 10px;
+margin-top: 20px;
+}
+
+#two{
+    font-family: Bradley Hand, cursive;
+    font-size: 15px;
+    color:white;
+    
+}
+
+#ice{
+    height: 180px;
+    width: 300px;
+    border-radius: 5px;
+    margin-left: 420px;
+    margin-top: -10px;
+}   
+
+a{
+    font-family: Bradley Hand, cursive;
+    font-size: 15px;
+    color: white;
+    width: 500px;
+    margin-left: -400px;
+    margin-top: 300px;
+    text-decoration: none;
+    
+}
+
+
+#cu{
+    color: white;
+}
+
+#will{
+    height: 180px;
+    width: 300px;
+    border-radius: 5px;
+    margin-left: 20px;
+    margin-top: -10px;
+}
+
+#rap{
+    font-family: Bradley Hand, cursive;
+    margin-left:-390px;
+    color: white;
+    font-size: 20px;
+    margin-top: -160px;
+   position: absolute;
+}
+
+
+#row{
+    font-family: Bradley Hand, cursive;
+    margin-left:60px;
+    color: white;
+    font-size: 20px;
+    margin-top: -140px;
+   position: absolute;
+}
+
+
+#grunge{
+    font-family: Bradley Hand, cursive;
+    margin-left:-200px;
+    color: white;
+    font-size: 20px;
+    margin-top: 120px;
+   position: absolute;
+}
+
+
+#b1:hover{
+    background-color: navajowhite;
+    opacity: 0.2 ;
+    transform: 0.6s;
+}
+
+#b1:hover{
+    background-color: navajowhite;
+    opacity: 0.2 ;
+    transform: 0.6s;
+}       
+
+#b2:hover{
+    background-color: navajowhite;
+    opacity: 0.2 ;
+    transform: 0.6s;
+}
+
+#b3:hover{
+    background-color: navajowhite;
+    opacity: 0.2 ;
+    transform: 0.6s;
+}
+
+
+
+.down{
+    border: solid;
+    margin-top: -120px;
+    height: 1000px;
+    width: 800px;
+    background-color: #080808;
+    margin-left: -830px;
+ }
+
+
+ .down:hover{
+    background-color: rgb(103, 102, 100);
+    opacity: 0.2 ;
+    transform: 0.6s;
+}
+
+#suck{
+    font-family: Bradley Hand, cursive;
+        font-size:20px;
+        color: white; 
+        margin-left: 20px;
+        margin-top: 30px;
+}
+
+
+#intro{
+    height: 200px;
+    width: 400px;
+    line-height: 25px;  
+    margin-top:30px;
+}
+
+#sintro{
+    height: 200px;
+    width: 400px;
+    line-height: 25px;  
+    margin-top:-280px;
+    font-family: Bradley Hand, cursive;
+    font-size:20px;
+    color: white;
+    margin-left:-10px;
+}
+
+#tv{
+    height: 200px;
+    width: 300px;
+   border-radius: 10px;
+   margin-left: 450px;
+   margin-top: -200px;
+}
+
+#tang{
+    line-height: 25px;  
+    height: 200px;
+    width: 400px;
+    margin-top: -200px;
+}
+
+#wu{
+    height: 200px;
+    width: 300px;
+   border-radius: 10px;
+   margin-left: 450px;
+margin-top: 100px;
+}
+
+/**/
+#vid{
+    height: 200px;
+    width: 300px;
+    margin-top: -20px;
+    position: sticky ;
+    margin-left: 250px;
+}
+
+
+#watch{
+    margin-top:150px;
+    margin-left: -700px;
+    font-family: Bradley Hand, cursive;
+    font-size:20px;
+    color: white;
+}
+/****/
+#icespie{
+    height: 170px;
+    margin-top: 1px;
+    margin-left: 90px;
+}

@@ -1,0 +1,5 @@
+ <p id="linetwo"> It upswept the standard concept with a tongue-in-cheek approach that combined straightforward scares with dialogue, putting a satirical approach to slasher film conventions. The film features many teen idols of the time, including Neve Campbell, Rose McGowan, Skeet Ulrich, Matthew Lillard, Drew Barrymore, David Arquette, Jamie Kennedy and Courteney Cox.</p>
+           <img id="tess" src="tess.jpg"></img> 
+           <p id="cast"> Cast & Characters</p>
+           <p id="dec"> Neve Campbell as Sidney Prescott:<br> Sidney is going through a rough time<br> throughout the film, dealing with<br> problems such as the anniversary of<br> her mother Maureen's murder, as well<br> as her boyfriend wanting to lose their <br>virginity to each other. She has a rivalry<br> with the obnoxious news-reporter Gale <br>Weathers due to her writing a book filled<br> with lies and rumors about her mother's<br> murder trial. Along with Gale, Sidney manages<br> to defeat the killer at the end of the film.</p>
+           <img id="syd" src="772557c4-6988-41e4-b29a-503ed00349dc.jpg">

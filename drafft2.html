@@ -1,0 +1,38 @@
+<div class="logo-container">
+    <img src="gettyimages-1370651860-612x612.jpg" alt="Logo" class="logo">
+    <ul class="menu">
+      <li><a href="over.html">Home</a></li>
+      <li><a href="menu.html">About</a></li>
+      <li><a href="over.html">Services</a></li>
+      <li><a href="temple.html">Contact</a></li>
+    </ul>
+  </div>
+  <style>
+.logo-container {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .menu {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background: rgba(255, 255, 255, 0.8); /* Transparent white background */
+    padding: 10px;
+    transition: background-color 0.3s ease; /* Smooth transition */
+  }
+  
+  .logo-container:hover .menu {
+    display: block;
+    background: rgba(255, 255, 255, 1); /* Fully opaque white background on hover */
+  }
+  
+  /* Styling for the rest of the logo */
+  .logo {
+    /* Add your logo styles here */
+  }
+  body{
+    background-color: black;
+  }
+  

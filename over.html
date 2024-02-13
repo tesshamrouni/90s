@@ -1,0 +1,237 @@
+
+<head>
+    <title> over the top</title>
+    <link rel="stylesheet" href="css.css">
+    <script src="java.js"></script>
+    <link rel="shortcut icon" type="image/x-icon" href="80s_Action_Figure_Logos-removebg-preview (1).png" />
+</head>
+<body>
+<div class="news">
+  <p id="v"> News</p>
+   <img  id="cur" src="output-onlinegiftools (1).gif">
+  <a href="nostalgia.html"><p id="ar1">16 Things That Made The 90s So Special. Nostalgia Lane,<br> Here We Come Best Website For The 90's Lover </p></a>
+  <img  id="gif" src="giphy.gif">
+  <a href="food"><p id="ar2"> '90s Food Commercials We Still Think About To This Day</p></a>
+ <img id="gif2" src="giphy (1).gif">  
+ <a href="fashin.html"><p id="ar3"> Forgotten '90s Fashion Trends We're Still Obsessing Over</p></a>
+ <img id="gif3" src="200.webp">
+</div>
+<div class="link"> 
+    <h1 id="t"> Quizes </h1>
+    <img  id="curr" src="output-onlinegiftools (1).gif">
+   <a href="scream.html"><p id="ar11"> Are You Really A Sream Fan ? Check Out This Quiz !</p>
+    
+    <img  id='giff' src="OBh0.gif"></a>
+    <a href="ten.html"><p id=ar2 > You Can Only Save one '90s Movie Per Year , So Choose Wisley ... </p>
+<img  id="gif22"src="Youd-fight-course-only-because-you-wanted-make-up.gif"></a>
+  <a href="z.html">  <p id="ar3">If You Haven't Seen At Least 12/24 Of These Straight-To-Vhs/DVD Movies Your Not A Zillenial </p>
+    <img id="gif3" src="giphy (3).gif"></a>
+</div>
+
+  <div class="reasons">
+  <img  id="b" src="tumblr-n6rulhHjvd1rz31j5o2-r1--unscreen.gif">
+  <p id="info"> 🙶Feeling nostalgic? wanna remember the good <br>memories from the  past? where things were<br> utterly awesome free and exceptional  then <br> over the top is the right destiny for you dear visitor! 🙸</p>
+<div class="zo">
+
+  <p id="n" > 🙶The time machine is on! just a simple click and <br>you'll get all  about  the '90s ; the  Film industry <br> Commercials, Fashion , the Music industry<br> and More ! 🙸 </p>
+ <img src="tumblr-n6rulhHjvd1rz31j5o2-r1--unscreen.gif" id="crystal">
+  <a href="reveal.html"><p id="true"> This Quiz Will Reveal How '90s<br>You Truly Are With 100%<br></p></a>
+  <img id="wt" src="2001.webp">
+ <a href="cool.html"><p id="pop">Let's See How Much You<br> Actually Remember About Pop<br> Culture In The '90s</p></a>
+  <img id="pp" src="2008.webp">
+  <a href="games.html"><p id="games">The 23 Best '90s<br> Video Games , Ranked</p></a>
+  <img id="gif18" src="g.webp">
+  <a href="mtv.html"><p id="mtv">MTV had a huge impact on<br> young people in the 1990s</p></a>
+  <img  id="mv" src="200w (4).webp">
+</div>
+
+
+</div>
+<div class="menu">
+  <div class="logo-container">
+    <img id="logo" src="80s_Action_Figure_Logos-removebg-preview (1).png" alt="Logo" class="logo">
+
+      <div class="menuu">
+       <a href="music.html">Music</a> 
+        <a href="menu.html">Film</a>
+        <a href="over.html">Food</a>
+        <a href="temple.html">Fashion</a>
+        <a href="temple.html">Gaming</a>
+        <a href="quiz.html">Quizes
+        </a>
+        <a href="about.html">About</a>
+    
+       
+      </div>
+    
+    </div>
+
+    <div class="slideshow-container"> 
+      <div class="slide">
+          <img src="gettyimages-1370651860-612x612.jpg">
+        <!-- Slide content goes here -->
+      </div>
+      <div class="slide">
+        <!-- Slide content goes here -->
+        <img src="gettyimages-1385223699-612x612.jpg">
+      </div>
+      <!-- Add more slide divs as needed -->
+      <div class="slide">
+          <!-- Slide content goes here -->
+          <img src="gettyimages-539727368-612x612.jpg">
+        </div>
+        <div class="slide">
+          <!-- Slide content goes here -->
+          <img src="gettyimages-76003519-612x612.jpg">
+        </div>
+        <div class="slide">
+          <!-- Slide content goes here -->
+          <img src="gettyimages-75398784-612x612.jpg">
+         
+        </div>
+    </div>
+  <div class="dot-container">
+    <!-- Dots will be dynamically generated here -->
+  </div>
+</div>
+<style>
+    .slideshow-container {
+  position: relative;
+  width: 100%;
+  height: 300px; /* Adjust the height as needed */
+  overflow: hidden;
+  margin-top: -600px;
+  margin-left: -10px;
+}
+
+.slide {
+  position: absolute;
+  width: 900%;
+  height: 500%;
+  opacity: 0;
+  transition: opacity 1s ease;
+  margin-top: 20px;
+}
+
+.show {
+  opacity: 1;
+}
+
+.dot-container {
+  text-align: center;
+  margin-top: 20px;
+  margin-left: -510px;
+}
+
+.dot {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: #bbb;
+  margin: 0 5px;
+  cursor: pointer;
+}
+
+.active-dot {
+  background-color: #717171;
+}
+
+/* Add more slide styles as needed */
+
+</style>  
+
+<script>
+    const slides = document.querySelectorAll('.slide');
+const dotContainer = document.querySelector('.dot-container');
+let currentSlide = 0;
+
+// Function to show the current slide
+function showSlide() {
+  slides.forEach((slide) => {
+    slide.classList.remove('show');
+  });
+
+  slides[currentSlide].classList.add('show');
+
+  // Update the active dot
+  const dots = document.querySelectorAll('.dot');
+  dots.forEach((dot) => {
+    dot.classList.remove('active-dot');
+  });
+  dots[currentSlide].classList.add('active-dot');
+}
+
+// Function to go to the next slide
+function nextSlide() {
+  currentSlide++;
+  if (currentSlide === slides.length) {
+    currentSlide = 0;
+  }
+  showSlide();
+}
+
+// Automatically go to the next slide every 3 seconds
+setInterval(nextSlide, 3000);
+
+// Generate navigation dots
+slides.forEach((_, index) => {
+  const dot = document.createElement('span');
+  dot.classList.add('dot');
+  dot.addEventListener('click', () => {
+    currentSlide = index;
+    showSlide();
+  });
+  dotContainer.appendChild(dot);
+});
+
+// Show the initial slide
+showSlide();
+
+
+</script>
+<script>
+  // 
+ // Add an event listener to the logo container
+ document.querySelector('.logo-container').addEventListener('mouseover', function() {
+    // Show the menu when the container is hovered over
+    document.querySelector('.menuu').style.display = 'block';
+  });
+  
+  document.querySelector('.logo-container').addEventListener('mouseout', function() {
+    // Hide the menu when the cursor leaves the container
+    document.querySelector('.menuu').style.display = 'none';
+  });
+  
+</script>
+<!--  -->
+<div class="down">
+  <div class="all">
+
+  <a href="film.html"><p id="ed"> Edward Scissorhands: <br>Why it Could be Tim Burton’s Best Film ?</p></a>
+  <img id="edw" src="ph_1666878745635a8d194d4f9.jpg">
+  <p id="info1"> Edward Scissorhands is a 1990 movie directed by Tim Burton. <br>The movie centers around the title character (Johnny Depp), <br>who was created by an inventor (Vincent Price)The inventor
+    <br>dies before he can give Edward human hands, leaving him with<br> scissor ones instead. He lives alone in the inventor’s mansion ..
+  </p>
+  <p id="space"> The original Space Jam website lives on,<br>  even with a sequel !</p>
+  <p id="info2">When the first Space Jam movie came out, Warner Bros. rolled out<br> a promotional website with information and tons of spinning images. <br>That site has persevered,
+    remaining live online for a full 25 years. <br>The Space Jam website could vote, smoke,drink,<br> and take out a mortgage.
+  </p>
+  <img id="jam" src="NbKPigG.0.jpg">
+  <p id="eleven">11 Things You Did At The Movies In The '90s</p>
+  <img  id="jh" src="gettyimages-1305770784-612x612.jpg">
+  <p id="fu">Going to the movies in the '90s was a unique experience. If you don't<br> remember the '90s, you're probably rolling your eyes a lot right now.<br> Howcould things be that different? It's going to the movies for crying <br>out loud! Do these '90speople really always have to make everything<br> abouthow '90s everything in the '90s was?
+</div>
+</body>
+
+
+<div class="footer"> 
+  <a href="over.html" id="over"> Home Page </a> 
+  <a href="over.html" id="over1"> About Us </a> 
+  <a href="over.html" id="over2">Contact </a> 
+  <a href="over.html" id="over3">News </a> 
+
+
+
+
+</div>

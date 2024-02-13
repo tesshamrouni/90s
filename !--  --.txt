@@ -1,0 +1,31 @@
+<!--  -->
+<div class="big1">
+<div class="box2">
+  <p class="action"> WHY ACTION MOVIES WERE BETTER IN THE 90s ?</p>
+  <img src="6390d80b-2760-4843-9921-0f9a8a38e435.gif" class="mx">
+
+  <p id="I"> The 90s were a glorious time for action movie fans. The decade gave us a perfect storm of machismo, mayhem, and melodrama that simply hasn’t been matched since. Where else (besides the 80s) could you see A-listers like Arnold Schwarzenegger and Sylvester Stallone cracking skulls while spewing enough corny one-liners to fill a decade’s worth of blockbusters? Or watch as stars like Bruce Willis and Mel Gibson dispatched villains through sheer guts and grit without today’s dependence on CGI razzle-dazzle?<br>The 90s were the last era when R-rated action films could still go head-to-head at the box office with their PG-13 counterparts. Movies like Terminator 2, Face/Off, and True Lies pushed the boundaries of violence and language further than most studios would allow today.<br>Yet at the same time, the 90s also marked the peak of the classic PG-13 action movie – films like the first Mission Impossible, The Fugitive, and Independence Day that delivered all the adrenaline audiences craved while largely staying family-friendly.<br>In many ways, 90s action films were the perfect encapsulation of the Gen X mentality – cynical, street-wise, and always ready for a fight. And their stars represented the kind of rough-and-tumble masculinity associated with the decade.</p>
+  <p id="II"> Back then, studios were still testing the limits on levels of sex and violence newly deemed<br> acceptable by the MPAA. Rating walls came tumbling down faster than the White House in<br> Independence Day. With record-setting budgets to throw around, 90s directors like Paul<br> Verhoeven and Quentin Tarantino upped the ante on gore, gleefully lighting up the screen with<br> squibs and viscera galore.<br> Today’s action flicks feel practically sterile by comparison. Can you imagine if The Matrix or <br>Saving Private Ryan got greenlit now without a dozen tweaks to pull the violence punches? The<br> emphasis on producing content that’s easily digestible for every market has somewhat watered<br> down what’s deemed acceptable in most modern action flicks – and it shows.<br> Of course, it’s not just studio timidity that has contributed to the decline of hardcore action <br> movies. Audience tastes have evolved with the times, sometimes leaving old-school shoot-’em-ups<br> in the dust. These days, viewers seeking visceral virtual violence often prefer the immersive<br> experiences offered by first-person shooter video games like<br> Call of Duty or cinematic titles like The Last of Us.</p>
+  <a href="https://www.fortressofsolitude.co.za/why-action-movies-were-better-in-the-90s/" class="rread" > Read More</a>
+  
+</div>
+<!--  -->
+<div class="box3">  
+  <h3 class="disney"> DISNEY THROUGH THE YEARS - THE 1990S: ANIMATED FEATURES</h3>
+  <img src="télécharger.gif" class="mx">
+  <p id="I"> Nothing quite compares to the charm and ambiance of Walt Disney Productions back in the day. A golden era for Disney films and entertainment, this pilot period spun a spectacular web of classic movies that audiences have been stuck in ever since, changing the course of cinema with its many spin-offs, sequels, and innovations. From talking dragons and dancing candles to magic genies and scheming witches, the '90s are revered as some of the best Disney movies ever made.</p>
+<p id="II"> Audiences across the world fell in love with some of Disney's most recognizable and beloved <br>characters, with familiar faces like Buzz Lightyear, Mushu, Lumiere, and conspiring twins Annie<br> and Hallie making their debuts during the nostalgic decade. Fondly known as the Disney<br> Renaissance, the '90s was a time of a popular resurgence for the animation studio after a couple<br> of less beloved decades. Here are the best films released.</p>
+</div>
+</div>
+<!--  -->
+<div class="big2">
+  <div class="director"> 
+    <h3 id="d"> 20 Big-Name Directors Who Debuted in the 1990s</h3>
+    <img src="👍🏼.gif" class="mx">
+    <p id="Id"> As one of the most popular decades in all of cinema, these years were of course replete with films from popular directors. Guys like Steven Spielberg, James Cameron, Martin Scorsese, and the Coen Brothers were hard at work in the decade at hand. But of course, all those guys got started with feature directorial films either in the eighties, or well before. This list is looking at those who debuted in the 1990s — and of course, plenty of names herein will meet the name value of those listed above.<br> But then again, a lot of these filmmakers will undoubtedly be unfamiliar to less hardcore fans of the medium. All that said, these are seventeen big-name directors who debuted in the 1990s, one of the most fan-favorite decades in the history of film.</p>
+
+
+  </div>
+</div>
+
+<!--  -->
